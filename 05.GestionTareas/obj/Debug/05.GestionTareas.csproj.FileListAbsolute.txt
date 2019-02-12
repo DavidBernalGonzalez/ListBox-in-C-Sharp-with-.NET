@@ -1,0 +1,20 @@
+C:\Users\David\Desktop\MegaCursos\C# y .NET\Ejercicios\mios\05.GestionTareas\05.GestionTareas\bin\Debug\05.GestionTareas.exe.config
+C:\Users\David\Desktop\MegaCursos\C# y .NET\Ejercicios\mios\05.GestionTareas\05.GestionTareas\bin\Debug\05.GestionTareas.exe
+C:\Users\David\Desktop\MegaCursos\C# y .NET\Ejercicios\mios\05.GestionTareas\05.GestionTareas\bin\Debug\05.GestionTareas.pdb
+C:\Users\David\Desktop\MegaCursos\C# y .NET\Ejercicios\mios\05.GestionTareas\05.GestionTareas\obj\Debug\05.GestionTareas.csprojAssemblyReference.cache
+C:\Users\David\Desktop\MegaCursos\C# y .NET\Ejercicios\mios\05.GestionTareas\05.GestionTareas\obj\Debug\_05.GestionTareas.Form1.resources
+C:\Users\David\Desktop\MegaCursos\C# y .NET\Ejercicios\mios\05.GestionTareas\05.GestionTareas\obj\Debug\_05.GestionTareas.Properties.Resources.resources
+C:\Users\David\Desktop\MegaCursos\C# y .NET\Ejercicios\mios\05.GestionTareas\05.GestionTareas\obj\Debug\05.GestionTareas.csproj.GenerateResource.cache
+C:\Users\David\Desktop\MegaCursos\C# y .NET\Ejercicios\mios\05.GestionTareas\05.GestionTareas\obj\Debug\05.GestionTareas.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\MegaCursos\C# y .NET\Ejercicios\mios\05.GestionTareas\05.GestionTareas\obj\Debug\05.GestionTareas.exe
+C:\Users\David\Desktop\MegaCursos\C# y .NET\Ejercicios\mios\05.GestionTareas\05.GestionTareas\obj\Debug\05.GestionTareas.pdb
+C:\Users\David\Desktop\listbox\05.GestionTareas\bin\Debug\05.GestionTareas.exe.config
+C:\Users\David\Desktop\listbox\05.GestionTareas\bin\Debug\05.GestionTareas.exe
+C:\Users\David\Desktop\listbox\05.GestionTareas\bin\Debug\05.GestionTareas.pdb
+C:\Users\David\Desktop\listbox\05.GestionTareas\obj\Debug\05.GestionTareas.csprojAssemblyReference.cache
+C:\Users\David\Desktop\listbox\05.GestionTareas\obj\Debug\_05.GestionTareas.Form1.resources
+C:\Users\David\Desktop\listbox\05.GestionTareas\obj\Debug\_05.GestionTareas.Properties.Resources.resources
+C:\Users\David\Desktop\listbox\05.GestionTareas\obj\Debug\05.GestionTareas.csproj.GenerateResource.cache
+C:\Users\David\Desktop\listbox\05.GestionTareas\obj\Debug\05.GestionTareas.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\listbox\05.GestionTareas\obj\Debug\05.GestionTareas.exe
+C:\Users\David\Desktop\listbox\05.GestionTareas\obj\Debug\05.GestionTareas.pdb
